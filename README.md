@@ -1,5 +1,5 @@
 # qemistree-analyses
-Analyses of metabolomics data using q2-qemistree
+_Analyses of metabolomics data using q2-qemistree_
 
 Preprint of the manuscript associated with this repository can be found [here](https://www.biorxiv.org/content/10.1101/2020.05.04.077636v1)
 
