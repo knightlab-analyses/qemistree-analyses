@@ -1,2 +1,8 @@
-data/.DS_Store
-figures/.DS_Store
+# DS Store files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+*.egg
