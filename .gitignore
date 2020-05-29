@@ -1,0 +1,8 @@
+# DS Store files
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+*.egg
