@@ -7,6 +7,7 @@ channels:
   - https://conda.anaconda.org/qiime2
   - https://conda.anaconda.org/biocore
   - https://conda.anaconda.org/bioconda
+  - https://anaconda.org/askerdb
   - defaults
 dependencies:
   - _r-mutex=1.0.1=anacondar_1
